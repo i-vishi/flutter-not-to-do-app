@@ -1,0 +1,4 @@
+com.appsbyvishal.not_to_do_flutter_app
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
